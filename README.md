@@ -1,6 +1,6 @@
 ## Netlify Link
 
-You can check this blog on [here](https://keen-lewin-5cab0e.netlify.com)
+You can check this blog on [here](https://eddiekim.netlify.com/)
 *Sorry that most contents in this blog are in Korean.*
 
 

@@ -16,7 +16,7 @@ const BlogTitle = styled.h3`
 `
 
 const BlogExcerpt = styled.p`
-  font-family: Sunflower, sans-serif;
+  font-family: Courier;
 `
 
 export default ({ data }) => (
